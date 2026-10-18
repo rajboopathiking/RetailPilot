@@ -1,0 +1,21 @@
+{
+  "company": "Northstar Commerce Pvt Ltd (fictional)",
+  "project": "RetailPilot",
+  "snapshot_date": "2026-10-15",
+  "currency": "INR",
+  "table_counts": {
+    "customers": 600,
+    "products": 240,
+    "warehouses": 3,
+    "inventory": 720,
+    "orders": 1800,
+    "order_items": 3049,
+    "payments": 1800,
+    "shipments": 1557,
+    "returns": 123,
+    "support_tickets": 450,
+    "knowledge_base": 8
+  },
+  "golden_tests": 12,
+  "seed": 2408
+}

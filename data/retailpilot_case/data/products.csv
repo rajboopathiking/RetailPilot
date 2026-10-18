@@ -1,0 +1,241 @@
+product_id,sku,name,category,brand,price_inr,cost_inr,rating,is_active,description,warranty_months
+P0001,SKU-00001,Nova Bluetooth Earbuds Lite 2,Electronics,Nova,1348.0,647.59,4.0,1,Nova bluetooth earbuds designed for daily electronics use; compact option.,12
+P0002,SKU-00002,Nova Air Fryer Lite 3,Home,Nova,972.0,620.76,3.4,1,Nova air fryer designed for daily home use; compact option.,12
+P0003,SKU-00003,Nova Running Shoes Lite 4,Fashion,Nova,454.0,247.69,3.8,1,Nova running shoes designed for daily fashion use; compact option.,3
+P0004,SKU-00004,Nova Yoga Mat Lite 5,Fitness,Nova,979.0,604.21,4.3,1,Nova yoga mat designed for daily fitness use; compact option.,12
+P0005,SKU-00005,Nova Wireless Mouse Lite 1,Electronics,Nova,1044.0,685.51,4.4,1,Nova wireless mouse designed for daily electronics use; compact option.,12
+P0006,SKU-00006,Nova Desk Lamp Lite 2,Home,Nova,949.0,568.36,4.4,1,Nova desk lamp designed for daily home use; compact option.,12
+P0007,SKU-00007,Nova Cotton T-Shirt Lite 3,Fashion,Nova,589.0,445.32,4.3,1,Nova cotton t-shirt designed for daily fashion use; compact option.,3
+P0008,SKU-00008,Nova Resistance Bands Lite 4,Fitness,Nova,917.0,618.85,4.8,1,Nova resistance bands designed for daily fitness use; compact option.,12
+P0009,SKU-00009,Nova USB-C Hub Lite 5,Electronics,Nova,1056.0,507.09,4.4,1,Nova usb-c hub designed for daily electronics use; compact option.,12
+P0010,SKU-00010,Nova Water Bottle Lite 1,Home,Nova,1066.0,709.42,4.4,1,Nova water bottle designed for daily home use; compact option.,12
+P0011,SKU-00011,Nova Hoodie Lite 2,Fashion,Nova,604.0,364.18,4.4,1,Nova hoodie designed for daily fashion use; compact option.,3
+P0012,SKU-00012,Nova Foam Roller Lite 3,Fitness,Nova,1018.0,662.65,4.9,1,Nova foam roller designed for daily fitness use; compact option.,12
+P0013,SKU-00013,Nova Power Bank Lite 4,Electronics,Nova,1309.0,649.17,4.1,1,Nova power bank designed for daily electronics use; compact option.,12
+P0014,SKU-00014,Nova Storage Box Lite 5,Home,Nova,1364.0,759.64,4.8,1,Nova storage box designed for daily home use; compact option.,12
+P0015,SKU-00015,Nova Backpack Lite 1,Fashion,Nova,652.0,436.48,4.7,1,Nova backpack designed for daily fashion use; compact option.,3
+P0016,SKU-00016,Nova Dumbbell Set Lite 2,Fitness,Nova,972.0,611.81,4.8,1,Nova dumbbell set designed for daily fitness use; compact option.,12
+P0017,SKU-00017,Nova Mechanical Keyboard Plus 3,Electronics,Nova,2096.0,1561.91,4.7,1,Nova mechanical keyboard designed for daily electronics use; versatile option.,12
+P0018,SKU-00018,Nova Coffee Grinder Plus 4,Home,Nova,1979.0,1177.96,4.3,1,Nova coffee grinder designed for daily home use; versatile option.,12
+P0019,SKU-00019,Nova Casual Shirt Plus 5,Fashion,Nova,1006.0,702.96,4.3,1,Nova casual shirt designed for daily fashion use; versatile option.,3
+P0020,SKU-00020,Nova Jump Rope Plus 1,Fitness,Nova,1244.0,858.68,3.6,1,Nova jump rope designed for daily fitness use; versatile option.,12
+P0021,SKU-00021,Nova Webcam Plus 2,Electronics,Nova,1930.0,1027.61,4.1,1,Nova webcam designed for daily electronics use; versatile option.,12
+P0022,SKU-00022,Nova Air Purifier Plus 3,Home,Nova,1517.0,789.51,4.0,1,Nova air purifier designed for daily home use; versatile option.,12
+P0023,SKU-00023,Nova Sunglasses Plus 4,Fashion,Nova,860.0,413.32,3.7,1,Nova sunglasses designed for daily fashion use; versatile option.,3
+P0024,SKU-00024,Nova Fitness Tracker Plus 5,Fitness,Nova,1030.0,754.93,3.9,1,Nova fitness tracker designed for daily fitness use; versatile option.,12
+P0025,SKU-00025,Nova Portable SSD Plus 1,Electronics,Nova,2214.0,1127.24,3.5,1,Nova portable ssd designed for daily electronics use; versatile option.,12
+P0026,SKU-00026,Nova Vacuum Cleaner Plus 2,Home,Nova,1660.0,1159.27,4.3,1,Nova vacuum cleaner designed for daily home use; versatile option.,12
+P0027,SKU-00027,Nova Sports Socks Plus 3,Fashion,Nova,1331.0,957.96,4.5,1,Nova sports socks designed for daily fashion use; versatile option.,3
+P0028,SKU-00028,Nova Gym Bag Plus 4,Fitness,Nova,1083.0,604.13,4.9,1,Nova gym bag designed for daily fitness use; versatile option.,12
+P0029,SKU-00029,Nova Smart Plug Plus 5,Electronics,Nova,2066.0,1568.41,4.8,0,Nova smart plug designed for daily electronics use; versatile option.,12
+P0030,SKU-00030,Nova Rice Cooker Plus 1,Home,Nova,1412.0,730.57,4.1,1,Nova rice cooker designed for daily home use; versatile option.,12
+P0031,SKU-00031,Nova Rain Jacket Plus 2,Fashion,Nova,838.0,623.91,3.3,1,Nova rain jacket designed for daily fashion use; versatile option.,3
+P0032,SKU-00032,Nova Cycling Gloves Plus 3,Fitness,Nova,1620.0,1225.07,3.4,1,Nova cycling gloves designed for daily fitness use; versatile option.,12
+P0033,SKU-00033,Orbito Bluetooth Earbuds Plus 4,Electronics,Orbito,1650.0,1162.26,4.0,1,Orbito bluetooth earbuds designed for daily electronics use; versatile option.,12
+P0034,SKU-00034,Orbito Air Fryer Pro 5,Home,Orbito,2538.0,1823.74,3.9,1,Orbito air fryer designed for daily home use; premium option.,12
+P0035,SKU-00035,Orbito Running Shoes Pro 1,Fashion,Orbito,1130.0,802.86,3.3,1,Orbito running shoes designed for daily fashion use; premium option.,3
+P0036,SKU-00036,Orbito Yoga Mat Pro 2,Fitness,Orbito,1579.0,958.44,4.0,1,Orbito yoga mat designed for daily fitness use; premium option.,12
+P0037,SKU-00037,Orbito Wireless Mouse Pro 3,Electronics,Orbito,2780.0,2093.22,4.6,1,Orbito wireless mouse designed for daily electronics use; premium option.,12
+P0038,SKU-00038,Orbito Desk Lamp Pro 4,Home,Orbito,2398.0,1214.16,3.6,1,Orbito desk lamp designed for daily home use; premium option.,12
+P0039,SKU-00039,Orbito Cotton T-Shirt Pro 5,Fashion,Orbito,1137.0,815.53,4.7,1,Orbito cotton t-shirt designed for daily fashion use; premium option.,3
+P0040,SKU-00040,Orbito Resistance Bands Pro 1,Fitness,Orbito,1629.0,1039.76,3.7,1,Orbito resistance bands designed for daily fitness use; premium option.,12
+P0041,SKU-00041,Orbito USB-C Hub Pro 2,Electronics,Orbito,2951.0,2159.27,4.7,1,Orbito usb-c hub designed for daily electronics use; premium option.,12
+P0042,SKU-00042,Orbito Water Bottle Pro 3,Home,Orbito,1963.0,1144.53,3.7,1,Orbito water bottle designed for daily home use; premium option.,12
+P0043,SKU-00043,Orbito Hoodie Pro 4,Fashion,Orbito,1462.0,1000.64,4.3,1,Orbito hoodie designed for daily fashion use; premium option.,3
+P0044,SKU-00044,Orbito Foam Roller Pro 5,Fitness,Orbito,1450.0,1019.39,4.5,1,Orbito foam roller designed for daily fitness use; premium option.,12
+P0045,SKU-00045,Orbito Power Bank Pro 1,Electronics,Orbito,2444.0,1456.41,4.1,1,Orbito power bank designed for daily electronics use; premium option.,12
+P0046,SKU-00046,Orbito Storage Box Pro 2,Home,Orbito,2212.0,1134.25,3.6,1,Orbito storage box designed for daily home use; premium option.,12
+P0047,SKU-00047,Orbito Backpack Pro 3,Fashion,Orbito,1361.0,943.23,4.6,1,Orbito backpack designed for daily fashion use; premium option.,3
+P0048,SKU-00048,Orbito Dumbbell Set Pro 4,Fitness,Orbito,1878.0,1211.94,4.4,1,Orbito dumbbell set designed for daily fitness use; premium option.,12
+P0049,SKU-00049,Orbito Mechanical Keyboard Pro 5,Electronics,Orbito,2882.0,1387.22,4.9,1,Orbito mechanical keyboard designed for daily electronics use; premium option.,12
+P0050,SKU-00050,Orbito Coffee Grinder Pro 1,Home,Orbito,2417.0,1484.14,4.5,1,Orbito coffee grinder designed for daily home use; premium option.,12
+P0051,SKU-00051,Orbito Casual Shirt Lite 2,Fashion,Orbito,916.0,457.26,3.5,1,Orbito casual shirt designed for daily fashion use; compact option.,3
+P0052,SKU-00052,Orbito Jump Rope Lite 3,Fitness,Orbito,960.0,712.99,4.3,1,Orbito jump rope designed for daily fitness use; compact option.,12
+P0053,SKU-00053,Orbito Webcam Lite 4,Electronics,Orbito,1359.0,918.4,4.8,1,Orbito webcam designed for daily electronics use; compact option.,12
+P0054,SKU-00054,Orbito Air Purifier Lite 5,Home,Orbito,1370.0,913.19,4.0,1,Orbito air purifier designed for daily home use; compact option.,12
+P0055,SKU-00055,Orbito Sunglasses Lite 1,Fashion,Orbito,863.0,630.51,4.2,1,Orbito sunglasses designed for daily fashion use; compact option.,3
+P0056,SKU-00056,Orbito Fitness Tracker Lite 2,Fitness,Orbito,1177.0,599.01,4.3,1,Orbito fitness tracker designed for daily fitness use; compact option.,12
+P0057,SKU-00057,Orbito Portable SSD Lite 3,Electronics,Orbito,1288.0,700.48,4.1,1,Orbito portable ssd designed for daily electronics use; compact option.,12
+P0058,SKU-00058,Orbito Vacuum Cleaner Lite 4,Home,Orbito,1065.0,630.53,3.8,0,Orbito vacuum cleaner designed for daily home use; compact option.,12
+P0059,SKU-00059,Orbito Sports Socks Lite 5,Fashion,Orbito,860.0,548.69,4.2,1,Orbito sports socks designed for daily fashion use; compact option.,3
+P0060,SKU-00060,Orbito Gym Bag Lite 1,Fitness,Orbito,1025.0,541.81,4.1,1,Orbito gym bag designed for daily fitness use; compact option.,12
+P0061,SKU-00061,Orbito Smart Plug Lite 2,Electronics,Orbito,1541.0,926.57,3.5,1,Orbito smart plug designed for daily electronics use; compact option.,12
+P0062,SKU-00062,Orbito Rice Cooker Lite 3,Home,Orbito,1379.0,702.96,3.9,1,Orbito rice cooker designed for daily home use; compact option.,12
+P0063,SKU-00063,Orbito Rain Jacket Lite 4,Fashion,Orbito,619.0,464.89,4.2,1,Orbito rain jacket designed for daily fashion use; compact option.,3
+P0064,SKU-00064,Orbito Cycling Gloves Lite 5,Fitness,Orbito,977.0,663.53,3.7,1,Orbito cycling gloves designed for daily fitness use; compact option.,12
+P0065,SKU-00065,Kraftly Bluetooth Earbuds Lite 1,Electronics,Kraftly,1194.0,756.56,3.4,1,Kraftly bluetooth earbuds designed for daily electronics use; compact option.,12
+P0066,SKU-00066,Kraftly Air Fryer Lite 2,Home,Kraftly,813.0,574.43,4.0,1,Kraftly air fryer designed for daily home use; compact option.,12
+P0067,SKU-00067,Kraftly Running Shoes Lite 3,Fashion,Kraftly,782.0,396.35,3.4,1,Kraftly running shoes designed for daily fashion use; compact option.,3
+P0068,SKU-00068,Kraftly Yoga Mat Plus 4,Fitness,Kraftly,1572.0,1047.9,4.7,1,Kraftly yoga mat designed for daily fitness use; versatile option.,12
+P0069,SKU-00069,Kraftly Wireless Mouse Plus 5,Electronics,Kraftly,2243.0,1324.62,4.6,1,Kraftly wireless mouse designed for daily electronics use; versatile option.,12
+P0070,SKU-00070,Kraftly Desk Lamp Plus 1,Home,Kraftly,1373.0,915.82,3.6,1,Kraftly desk lamp designed for daily home use; versatile option.,12
+P0071,SKU-00071,Kraftly Cotton T-Shirt Plus 2,Fashion,Kraftly,1130.0,680.62,3.7,1,Kraftly cotton t-shirt designed for daily fashion use; versatile option.,3
+P0072,SKU-00072,Kraftly Resistance Bands Plus 3,Fitness,Kraftly,1707.0,1236.44,4.4,1,Kraftly resistance bands designed for daily fitness use; versatile option.,12
+P0073,SKU-00073,Kraftly USB-C Hub Plus 4,Electronics,Kraftly,2238.0,1399.04,3.4,1,Kraftly usb-c hub designed for daily electronics use; versatile option.,12
+P0074,SKU-00074,Kraftly Water Bottle Plus 5,Home,Kraftly,1423.0,794.59,3.6,1,Kraftly water bottle designed for daily home use; versatile option.,12
+P0075,SKU-00075,Kraftly Hoodie Plus 1,Fashion,Kraftly,1206.0,745.08,4.3,1,Kraftly hoodie designed for daily fashion use; versatile option.,3
+P0076,SKU-00076,Kraftly Foam Roller Plus 2,Fitness,Kraftly,1661.0,1014.81,4.7,1,Kraftly foam roller designed for daily fitness use; versatile option.,12
+P0077,SKU-00077,Kraftly Power Bank Plus 3,Electronics,Kraftly,2122.0,1353.14,4.8,1,Kraftly power bank designed for daily electronics use; versatile option.,12
+P0078,SKU-00078,Kraftly Storage Box Plus 4,Home,Kraftly,1909.0,1285.3,3.9,1,Kraftly storage box designed for daily home use; versatile option.,12
+P0079,SKU-00079,Kraftly Backpack Plus 5,Fashion,Kraftly,925.0,575.64,3.4,1,Kraftly backpack designed for daily fashion use; versatile option.,3
+P0080,SKU-00080,Kraftly Dumbbell Set Plus 1,Fitness,Kraftly,1163.0,785.96,3.6,1,Kraftly dumbbell set designed for daily fitness use; versatile option.,12
+P0081,SKU-00081,Kraftly Mechanical Keyboard Plus 2,Electronics,Kraftly,2278.0,1329.46,4.5,1,Kraftly mechanical keyboard designed for daily electronics use; versatile option.,12
+P0082,SKU-00082,Kraftly Coffee Grinder Plus 3,Home,Kraftly,1371.0,1024.29,4.6,1,Kraftly coffee grinder designed for daily home use; versatile option.,12
+P0083,SKU-00083,Kraftly Casual Shirt Plus 4,Fashion,Kraftly,771.0,555.14,3.3,1,Kraftly casual shirt designed for daily fashion use; versatile option.,3
+P0084,SKU-00084,Kraftly Jump Rope Plus 5,Fitness,Kraftly,1606.0,1198.61,3.9,1,Kraftly jump rope designed for daily fitness use; versatile option.,12
+P0085,SKU-00085,Kraftly Webcam Pro 1,Electronics,Kraftly,2703.0,1798.21,4.6,1,Kraftly webcam designed for daily electronics use; premium option.,12
+P0086,SKU-00086,Kraftly Air Purifier Pro 2,Home,Kraftly,2251.0,1432.5,3.6,1,Kraftly air purifier designed for daily home use; premium option.,12
+P0087,SKU-00087,Kraftly Sunglasses Pro 3,Fashion,Kraftly,1611.0,905.81,4.8,0,Kraftly sunglasses designed for daily fashion use; premium option.,3
+P0088,SKU-00088,Kraftly Fitness Tracker Pro 4,Fitness,Kraftly,1862.0,1369.23,4.1,1,Kraftly fitness tracker designed for daily fitness use; premium option.,12
+P0089,SKU-00089,Kraftly Portable SSD Pro 5,Electronics,Kraftly,2513.0,1379.37,4.4,1,Kraftly portable ssd designed for daily electronics use; premium option.,12
+P0090,SKU-00090,Kraftly Vacuum Cleaner Pro 1,Home,Kraftly,2585.0,1686.53,4.0,1,Kraftly vacuum cleaner designed for daily home use; premium option.,12
+P0091,SKU-00091,Kraftly Sports Socks Pro 2,Fashion,Kraftly,1355.0,878.16,3.5,1,Kraftly sports socks designed for daily fashion use; premium option.,3
+P0092,SKU-00092,Kraftly Gym Bag Pro 3,Fitness,Kraftly,1474.0,1067.19,3.5,1,Kraftly gym bag designed for daily fitness use; premium option.,12
+P0093,SKU-00093,Kraftly Smart Plug Pro 4,Electronics,Kraftly,2811.0,1487.65,4.8,1,Kraftly smart plug designed for daily electronics use; premium option.,12
+P0094,SKU-00094,Kraftly Rice Cooker Pro 5,Home,Kraftly,2006.0,1344.96,4.5,1,Kraftly rice cooker designed for daily home use; premium option.,12
+P0095,SKU-00095,Kraftly Rain Jacket Pro 1,Fashion,Kraftly,1133.0,593.26,4.3,1,Kraftly rain jacket designed for daily fashion use; premium option.,3
+P0096,SKU-00096,Kraftly Cycling Gloves Pro 2,Fitness,Kraftly,2132.0,1202.95,3.5,1,Kraftly cycling gloves designed for daily fitness use; premium option.,12
+P0097,SKU-00097,UrbanPeak Bluetooth Earbuds Pro 3,Electronics,UrbanPeak,2626.0,1761.23,3.9,1,UrbanPeak bluetooth earbuds designed for daily electronics use; premium option.,12
+P0098,SKU-00098,UrbanPeak Air Fryer Pro 4,Home,UrbanPeak,2112.0,1159.49,3.9,1,UrbanPeak air fryer designed for daily home use; premium option.,12
+P0099,SKU-00099,UrbanPeak Running Shoes Pro 5,Fashion,UrbanPeak,1491.0,762.77,4.0,1,UrbanPeak running shoes designed for daily fashion use; premium option.,3
+P0100,SKU-00100,UrbanPeak Yoga Mat Pro 1,Fitness,UrbanPeak,2090.0,1117.82,4.0,1,UrbanPeak yoga mat designed for daily fitness use; premium option.,12
+P0101,SKU-00101,UrbanPeak Wireless Mouse Pro 2,Electronics,UrbanPeak,2491.0,1489.59,3.6,1,UrbanPeak wireless mouse designed for daily electronics use; premium option.,12
+P0102,SKU-00102,UrbanPeak Desk Lamp Lite 3,Home,UrbanPeak,1112.0,704.5,3.4,1,UrbanPeak desk lamp designed for daily home use; compact option.,12
+P0103,SKU-00103,UrbanPeak Cotton T-Shirt Lite 4,Fashion,UrbanPeak,880.0,664.53,3.4,1,UrbanPeak cotton t-shirt designed for daily fashion use; compact option.,3
+P0104,SKU-00104,UrbanPeak Resistance Bands Lite 5,Fitness,UrbanPeak,827.0,404.84,4.3,1,UrbanPeak resistance bands designed for daily fitness use; compact option.,12
+P0105,SKU-00105,UrbanPeak USB-C Hub Lite 1,Electronics,UrbanPeak,1155.0,766.17,4.8,1,UrbanPeak usb-c hub designed for daily electronics use; compact option.,12
+P0106,SKU-00106,UrbanPeak Water Bottle Lite 2,Home,UrbanPeak,848.0,566.53,4.3,1,UrbanPeak water bottle designed for daily home use; compact option.,12
+P0107,SKU-00107,UrbanPeak Hoodie Lite 3,Fashion,UrbanPeak,471.0,256.91,3.7,1,UrbanPeak hoodie designed for daily fashion use; compact option.,3
+P0108,SKU-00108,UrbanPeak Foam Roller Lite 4,Fitness,UrbanPeak,1132.0,680.79,3.5,1,UrbanPeak foam roller designed for daily fitness use; compact option.,12
+P0109,SKU-00109,UrbanPeak Power Bank Lite 5,Electronics,UrbanPeak,1220.0,845.53,3.4,1,UrbanPeak power bank designed for daily electronics use; compact option.,12
+P0110,SKU-00110,UrbanPeak Storage Box Lite 1,Home,UrbanPeak,1218.0,832.2,4.6,1,UrbanPeak storage box designed for daily home use; compact option.,12
+P0111,SKU-00111,UrbanPeak Backpack Lite 2,Fashion,UrbanPeak,973.0,578.36,4.0,1,UrbanPeak backpack designed for daily fashion use; compact option.,3
+P0112,SKU-00112,UrbanPeak Dumbbell Set Lite 3,Fitness,UrbanPeak,903.0,445.32,3.4,1,UrbanPeak dumbbell set designed for daily fitness use; compact option.,12
+P0113,SKU-00113,UrbanPeak Mechanical Keyboard Lite 4,Electronics,UrbanPeak,1342.0,781.05,4.0,1,UrbanPeak mechanical keyboard designed for daily electronics use; compact option.,12
+P0114,SKU-00114,UrbanPeak Coffee Grinder Lite 5,Home,UrbanPeak,1056.0,789.24,4.0,1,UrbanPeak coffee grinder designed for daily home use; compact option.,12
+P0115,SKU-00115,UrbanPeak Casual Shirt Lite 1,Fashion,UrbanPeak,774.0,511.94,4.2,1,UrbanPeak casual shirt designed for daily fashion use; compact option.,3
+P0116,SKU-00116,UrbanPeak Jump Rope Lite 2,Fitness,UrbanPeak,1196.0,600.64,4.8,0,UrbanPeak jump rope designed for daily fitness use; compact option.,12
+P0117,SKU-00117,UrbanPeak Webcam Lite 3,Electronics,UrbanPeak,1138.0,689.83,4.8,1,UrbanPeak webcam designed for daily electronics use; compact option.,12
+P0118,SKU-00118,UrbanPeak Air Purifier Lite 4,Home,UrbanPeak,835.0,401.17,4.5,1,UrbanPeak air purifier designed for daily home use; compact option.,12
+P0119,SKU-00119,UrbanPeak Sunglasses Plus 5,Fashion,UrbanPeak,1213.0,689.8,3.4,1,UrbanPeak sunglasses designed for daily fashion use; versatile option.,3
+P0120,SKU-00120,UrbanPeak Fitness Tracker Plus 1,Fitness,UrbanPeak,1647.0,961.9,4.7,1,UrbanPeak fitness tracker designed for daily fitness use; versatile option.,12
+P0121,SKU-00121,UrbanPeak Portable SSD Plus 2,Electronics,UrbanPeak,2171.0,1266.04,4.2,1,UrbanPeak portable ssd designed for daily electronics use; versatile option.,12
+P0122,SKU-00122,UrbanPeak Vacuum Cleaner Plus 3,Home,UrbanPeak,1756.0,1162.49,3.7,1,UrbanPeak vacuum cleaner designed for daily home use; versatile option.,12
+P0123,SKU-00123,UrbanPeak Sports Socks Plus 4,Fashion,UrbanPeak,1424.0,963.54,3.4,1,UrbanPeak sports socks designed for daily fashion use; versatile option.,3
+P0124,SKU-00124,UrbanPeak Gym Bag Plus 5,Fitness,UrbanPeak,1068.0,616.39,4.6,1,UrbanPeak gym bag designed for daily fitness use; versatile option.,12
+P0125,SKU-00125,UrbanPeak Smart Plug Plus 1,Electronics,UrbanPeak,1978.0,992.11,4.2,1,UrbanPeak smart plug designed for daily electronics use; versatile option.,12
+P0126,SKU-00126,UrbanPeak Rice Cooker Plus 2,Home,UrbanPeak,1883.0,1141.36,4.5,1,UrbanPeak rice cooker designed for daily home use; versatile option.,12
+P0127,SKU-00127,UrbanPeak Rain Jacket Plus 3,Fashion,UrbanPeak,1211.0,831.83,4.3,1,UrbanPeak rain jacket designed for daily fashion use; versatile option.,3
+P0128,SKU-00128,UrbanPeak Cycling Gloves Plus 4,Fitness,UrbanPeak,1121.0,606.85,4.7,1,UrbanPeak cycling gloves designed for daily fitness use; versatile option.,12
+P0129,SKU-00129,Maven Bluetooth Earbuds Plus 5,Electronics,Maven,1968.0,1335.07,4.1,1,Maven bluetooth earbuds designed for daily electronics use; versatile option.,12
+P0130,SKU-00130,Maven Air Fryer Plus 1,Home,Maven,1570.0,899.08,4.0,1,Maven air fryer designed for daily home use; versatile option.,12
+P0131,SKU-00131,Maven Running Shoes Plus 2,Fashion,Maven,970.0,670.35,4.0,1,Maven running shoes designed for daily fashion use; versatile option.,3
+P0132,SKU-00132,Maven Yoga Mat Plus 3,Fitness,Maven,1512.0,1083.23,3.6,1,Maven yoga mat designed for daily fitness use; versatile option.,12
+P0133,SKU-00133,Maven Wireless Mouse Plus 4,Electronics,Maven,1980.0,1062.54,4.1,1,Maven wireless mouse designed for daily electronics use; versatile option.,12
+P0134,SKU-00134,Maven Desk Lamp Plus 5,Home,Maven,1869.0,1174.35,4.6,1,Maven desk lamp designed for daily home use; versatile option.,12
+P0135,SKU-00135,Maven Cotton T-Shirt Plus 1,Fashion,Maven,1081.0,695.38,4.5,1,Maven cotton t-shirt designed for daily fashion use; versatile option.,3
+P0136,SKU-00136,Maven Resistance Bands Pro 2,Fitness,Maven,1710.0,1263.37,4.6,1,Maven resistance bands designed for daily fitness use; premium option.,12
+P0137,SKU-00137,Maven USB-C Hub Pro 3,Electronics,Maven,2705.0,1307.94,4.2,1,Maven usb-c hub designed for daily electronics use; premium option.,12
+P0138,SKU-00138,Maven Water Bottle Pro 4,Home,Maven,2205.0,1193.01,3.4,1,Maven water bottle designed for daily home use; premium option.,12
+P0139,SKU-00139,Maven Hoodie Pro 5,Fashion,Maven,1196.0,884.29,4.9,1,Maven hoodie designed for daily fashion use; premium option.,3
+P0140,SKU-00140,Maven Foam Roller Pro 1,Fitness,Maven,2035.0,1301.82,4.8,1,Maven foam roller designed for daily fitness use; premium option.,12
+P0141,SKU-00141,Maven Power Bank Pro 2,Electronics,Maven,2634.0,1705.87,3.4,1,Maven power bank designed for daily electronics use; premium option.,12
+P0142,SKU-00142,Maven Storage Box Pro 3,Home,Maven,1970.0,1012.11,4.2,1,Maven storage box designed for daily home use; premium option.,12
+P0143,SKU-00143,Maven Backpack Pro 4,Fashion,Maven,1215.0,629.88,3.8,1,Maven backpack designed for daily fashion use; premium option.,3
+P0144,SKU-00144,Maven Dumbbell Set Pro 5,Fitness,Maven,2113.0,1391.37,4.2,1,Maven dumbbell set designed for daily fitness use; premium option.,12
+P0145,SKU-00145,Maven Mechanical Keyboard Pro 1,Electronics,Maven,2326.0,1303.07,4.3,0,Maven mechanical keyboard designed for daily electronics use; premium option.,12
+P0146,SKU-00146,Maven Coffee Grinder Pro 2,Home,Maven,1953.0,1232.77,4.4,1,Maven coffee grinder designed for daily home use; premium option.,12
+P0147,SKU-00147,Maven Casual Shirt Pro 3,Fashion,Maven,1715.0,993.11,3.3,1,Maven casual shirt designed for daily fashion use; premium option.,3
+P0148,SKU-00148,Maven Jump Rope Pro 4,Fitness,Maven,2102.0,1139.27,4.2,1,Maven jump rope designed for daily fitness use; premium option.,12
+P0149,SKU-00149,Maven Webcam Pro 5,Electronics,Maven,2703.0,1354.17,4.1,1,Maven webcam designed for daily electronics use; premium option.,12
+P0150,SKU-00150,Maven Air Purifier Pro 1,Home,Maven,2204.0,1450.68,4.7,1,Maven air purifier designed for daily home use; premium option.,12
+P0151,SKU-00151,Maven Sunglasses Pro 2,Fashion,Maven,1664.0,1060.39,4.9,1,Maven sunglasses designed for daily fashion use; premium option.,3
+P0152,SKU-00152,Maven Fitness Tracker Pro 3,Fitness,Maven,1539.0,752.64,3.9,1,Maven fitness tracker designed for daily fitness use; premium option.,12
+P0153,SKU-00153,Maven Portable SSD Lite 4,Electronics,Maven,1640.0,902.88,3.7,1,Maven portable ssd designed for daily electronics use; compact option.,12
+P0154,SKU-00154,Maven Vacuum Cleaner Lite 5,Home,Maven,1394.0,822.32,4.3,1,Maven vacuum cleaner designed for daily home use; compact option.,12
+P0155,SKU-00155,Maven Sports Socks Lite 1,Fashion,Maven,1078.0,815.36,4.7,1,Maven sports socks designed for daily fashion use; compact option.,3
+P0156,SKU-00156,Maven Gym Bag Lite 2,Fitness,Maven,1041.0,635.33,3.8,1,Maven gym bag designed for daily fitness use; compact option.,12
+P0157,SKU-00157,Maven Smart Plug Lite 3,Electronics,Maven,1206.0,799.85,3.9,1,Maven smart plug designed for daily electronics use; compact option.,12
+P0158,SKU-00158,Maven Rice Cooker Lite 4,Home,Maven,1071.0,543.37,4.6,1,Maven rice cooker designed for daily home use; compact option.,12
+P0159,SKU-00159,Maven Rain Jacket Lite 5,Fashion,Maven,482.0,292.81,3.5,1,Maven rain jacket designed for daily fashion use; compact option.,3
+P0160,SKU-00160,Maven Cycling Gloves Lite 1,Fitness,Maven,1041.0,775.62,4.2,1,Maven cycling gloves designed for daily fitness use; compact option.,12
+P0161,SKU-00161,Aero Bluetooth Earbuds Lite 2,Electronics,Aero,1425.0,693.36,4.0,1,Aero bluetooth earbuds designed for daily electronics use; compact option.,12
+P0162,SKU-00162,Aero Air Fryer Lite 3,Home,Aero,1373.0,849.14,4.1,1,Aero air fryer designed for daily home use; compact option.,12
+P0163,SKU-00163,Aero Running Shoes Lite 4,Fashion,Aero,1148.0,585.44,4.6,1,Aero running shoes designed for daily fashion use; compact option.,3
+P0164,SKU-00164,Aero Yoga Mat Lite 5,Fitness,Aero,789.0,432.15,4.1,1,Aero yoga mat designed for daily fitness use; compact option.,12
+P0165,SKU-00165,Aero Wireless Mouse Lite 1,Electronics,Aero,1153.0,830.14,4.7,1,Aero wireless mouse designed for daily electronics use; compact option.,12
+P0166,SKU-00166,Aero Desk Lamp Lite 2,Home,Aero,1177.0,851.43,3.5,1,Aero desk lamp designed for daily home use; compact option.,12
+P0167,SKU-00167,Aero Cotton T-Shirt Lite 3,Fashion,Aero,987.0,609.79,4.6,1,Aero cotton t-shirt designed for daily fashion use; compact option.,3
+P0168,SKU-00168,Aero Resistance Bands Lite 4,Fitness,Aero,1240.0,756.85,4.2,1,Aero resistance bands designed for daily fitness use; compact option.,12
+P0169,SKU-00169,Aero USB-C Hub Lite 5,Electronics,Aero,1355.0,792.69,4.2,1,Aero usb-c hub designed for daily electronics use; compact option.,12
+P0170,SKU-00170,Aero Water Bottle Plus 1,Home,Aero,2031.0,1078.02,3.9,1,Aero water bottle designed for daily home use; versatile option.,12
+P0171,SKU-00171,Aero Hoodie Plus 2,Fashion,Aero,979.0,742.57,4.0,1,Aero hoodie designed for daily fashion use; versatile option.,3
+P0172,SKU-00172,Aero Foam Roller Plus 3,Fitness,Aero,1336.0,784.41,3.8,1,Aero foam roller designed for daily fitness use; versatile option.,12
+P0173,SKU-00173,Aero Power Bank Plus 4,Electronics,Aero,2223.0,1146.94,3.6,1,Aero power bank designed for daily electronics use; versatile option.,12
+P0174,SKU-00174,Aero Storage Box Plus 5,Home,Aero,2022.0,1506.08,4.1,0,Aero storage box designed for daily home use; versatile option.,12
+P0175,SKU-00175,Aero Backpack Plus 1,Fashion,Aero,1238.0,756.78,4.9,1,Aero backpack designed for daily fashion use; versatile option.,3
+P0176,SKU-00176,Aero Dumbbell Set Plus 2,Fitness,Aero,1325.0,648.13,3.8,1,Aero dumbbell set designed for daily fitness use; versatile option.,12
+P0177,SKU-00177,Aero Mechanical Keyboard Plus 3,Electronics,Aero,1802.0,1172.34,4.5,1,Aero mechanical keyboard designed for daily electronics use; versatile option.,12
+P0178,SKU-00178,Aero Coffee Grinder Plus 4,Home,Aero,1457.0,778.74,3.6,1,Aero coffee grinder designed for daily home use; versatile option.,12
+P0179,SKU-00179,Aero Casual Shirt Plus 5,Fashion,Aero,1403.0,1011.38,4.3,1,Aero casual shirt designed for daily fashion use; versatile option.,3
+P0180,SKU-00180,Aero Jump Rope Plus 1,Fitness,Aero,1401.0,864.53,3.9,1,Aero jump rope designed for daily fitness use; versatile option.,12
+P0181,SKU-00181,Aero Webcam Plus 2,Electronics,Aero,2060.0,1430.16,4.9,1,Aero webcam designed for daily electronics use; versatile option.,12
+P0182,SKU-00182,Aero Air Purifier Plus 3,Home,Aero,1810.0,1005.44,3.9,1,Aero air purifier designed for daily home use; versatile option.,12
+P0183,SKU-00183,Aero Sunglasses Plus 4,Fashion,Aero,1266.0,960.3,4.2,1,Aero sunglasses designed for daily fashion use; versatile option.,3
+P0184,SKU-00184,Aero Fitness Tracker Plus 5,Fitness,Aero,1509.0,785.83,4.6,1,Aero fitness tracker designed for daily fitness use; versatile option.,12
+P0185,SKU-00185,Aero Portable SSD Plus 1,Electronics,Aero,1932.0,1370.05,3.5,1,Aero portable ssd designed for daily electronics use; versatile option.,12
+P0186,SKU-00186,Aero Vacuum Cleaner Plus 2,Home,Aero,1365.0,1003.02,3.8,1,Aero vacuum cleaner designed for daily home use; versatile option.,12
+P0187,SKU-00187,Aero Sports Socks Pro 3,Fashion,Aero,1100.0,603.84,3.5,1,Aero sports socks designed for daily fashion use; premium option.,3
+P0188,SKU-00188,Aero Gym Bag Pro 4,Fitness,Aero,1908.0,1422.83,4.5,1,Aero gym bag designed for daily fitness use; premium option.,12
+P0189,SKU-00189,Aero Smart Plug Pro 5,Electronics,Aero,2511.0,1847.62,3.8,1,Aero smart plug designed for daily electronics use; premium option.,12
+P0190,SKU-00190,Aero Rice Cooker Pro 1,Home,Aero,2055.0,1352.28,3.7,1,Aero rice cooker designed for daily home use; premium option.,12
+P0191,SKU-00191,Aero Rain Jacket Pro 2,Fashion,Aero,1254.0,740.73,4.5,1,Aero rain jacket designed for daily fashion use; premium option.,3
+P0192,SKU-00192,Aero Cycling Gloves Pro 3,Fitness,Aero,1564.0,949.07,4.8,1,Aero cycling gloves designed for daily fitness use; premium option.,12
+P0193,SKU-00193,Vista Bluetooth Earbuds Pro 4,Electronics,Vista,2693.0,1301.44,4.2,1,Vista bluetooth earbuds designed for daily electronics use; premium option.,12
+P0194,SKU-00194,Vista Air Fryer Pro 5,Home,Vista,2372.0,1709.48,4.1,1,Vista air fryer designed for daily home use; premium option.,12
+P0195,SKU-00195,Vista Running Shoes Pro 1,Fashion,Vista,1390.0,926.21,4.4,1,Vista running shoes designed for daily fashion use; premium option.,3
+P0196,SKU-00196,Vista Yoga Mat Pro 2,Fitness,Vista,1930.0,1166.31,4.3,1,Vista yoga mat designed for daily fitness use; premium option.,12
+P0197,SKU-00197,Vista Wireless Mouse Pro 3,Electronics,Vista,2898.0,2024.56,4.6,1,Vista wireless mouse designed for daily electronics use; premium option.,12
+P0198,SKU-00198,Vista Desk Lamp Pro 4,Home,Vista,2498.0,1406.54,3.7,1,Vista desk lamp designed for daily home use; premium option.,12
+P0199,SKU-00199,Vista Cotton T-Shirt Pro 5,Fashion,Vista,1322.0,993.28,4.6,1,Vista cotton t-shirt designed for daily fashion use; premium option.,3
+P0200,SKU-00200,Vista Resistance Bands Pro 1,Fitness,Vista,1689.0,1226.68,3.7,1,Vista resistance bands designed for daily fitness use; premium option.,12
+P0201,SKU-00201,Vista USB-C Hub Pro 2,Electronics,Vista,2465.0,1762.24,4.8,1,Vista usb-c hub designed for daily electronics use; premium option.,12
+P0202,SKU-00202,Vista Water Bottle Pro 3,Home,Vista,2310.0,1648.55,4.2,1,Vista water bottle designed for daily home use; premium option.,12
+P0203,SKU-00203,Vista Hoodie Pro 4,Fashion,Vista,1091.0,549.81,3.3,0,Vista hoodie designed for daily fashion use; premium option.,3
+P0204,SKU-00204,Vista Foam Roller Lite 5,Fitness,Vista,1231.0,681.56,4.9,1,Vista foam roller designed for daily fitness use; compact option.,12
+P0205,SKU-00205,Vista Power Bank Lite 1,Electronics,Vista,1348.0,734.04,4.7,1,Vista power bank designed for daily electronics use; compact option.,12
+P0206,SKU-00206,Vista Storage Box Lite 2,Home,Vista,802.0,392.68,4.6,1,Vista storage box designed for daily home use; compact option.,12
+P0207,SKU-00207,Vista Backpack Lite 3,Fashion,Vista,587.0,319.51,3.6,1,Vista backpack designed for daily fashion use; compact option.,3
+P0208,SKU-00208,Vista Dumbbell Set Lite 4,Fitness,Vista,1036.0,754.77,4.3,1,Vista dumbbell set designed for daily fitness use; compact option.,12
+P0209,SKU-00209,Vista Mechanical Keyboard Lite 5,Electronics,Vista,1211.0,839.44,3.9,1,Vista mechanical keyboard designed for daily electronics use; compact option.,12
+P0210,SKU-00210,Vista Coffee Grinder Lite 1,Home,Vista,1046.0,567.26,3.4,1,Vista coffee grinder designed for daily home use; compact option.,12
+P0211,SKU-00211,Vista Casual Shirt Lite 2,Fashion,Vista,561.0,418.07,4.7,1,Vista casual shirt designed for daily fashion use; compact option.,3
+P0212,SKU-00212,Vista Jump Rope Lite 3,Fitness,Vista,864.0,535.89,4.3,1,Vista jump rope designed for daily fitness use; compact option.,12
+P0213,SKU-00213,Vista Webcam Lite 4,Electronics,Vista,1359.0,1029.52,3.8,1,Vista webcam designed for daily electronics use; compact option.,12
+P0214,SKU-00214,Vista Air Purifier Lite 5,Home,Vista,1113.0,616.66,3.6,1,Vista air purifier designed for daily home use; compact option.,12
+P0215,SKU-00215,Vista Sunglasses Lite 1,Fashion,Vista,847.0,508.86,3.4,1,Vista sunglasses designed for daily fashion use; compact option.,3
+P0216,SKU-00216,Vista Fitness Tracker Lite 2,Fitness,Vista,957.0,675.95,3.7,1,Vista fitness tracker designed for daily fitness use; compact option.,12
+P0217,SKU-00217,Vista Portable SSD Lite 3,Electronics,Vista,1134.0,831.34,4.1,1,Vista portable ssd designed for daily electronics use; compact option.,12
+P0218,SKU-00218,Vista Vacuum Cleaner Lite 4,Home,Vista,907.0,658.23,3.8,1,Vista vacuum cleaner designed for daily home use; compact option.,12
+P0219,SKU-00219,Vista Sports Socks Lite 5,Fashion,Vista,987.0,663.49,3.9,1,Vista sports socks designed for daily fashion use; compact option.,3
+P0220,SKU-00220,Vista Gym Bag Lite 1,Fitness,Vista,602.0,368.57,4.3,1,Vista gym bag designed for daily fitness use; compact option.,12
+P0221,SKU-00221,Vista Smart Plug Plus 2,Electronics,Vista,1721.0,934.04,4.7,1,Vista smart plug designed for daily electronics use; versatile option.,12
+P0222,SKU-00222,Vista Rice Cooker Plus 3,Home,Vista,1644.0,821.85,3.8,1,Vista rice cooker designed for daily home use; versatile option.,12
+P0223,SKU-00223,Vista Rain Jacket Plus 4,Fashion,Vista,1445.0,781.34,4.0,1,Vista rain jacket designed for daily fashion use; versatile option.,3
+P0224,SKU-00224,Vista Cycling Gloves Plus 5,Fitness,Vista,1164.0,560.89,3.6,1,Vista cycling gloves designed for daily fitness use; versatile option.,12
+P0225,SKU-00225,Elm Bluetooth Earbuds Plus 1,Electronics,Elm,1824.0,922.95,3.5,1,Elm bluetooth earbuds designed for daily electronics use; versatile option.,12
+P0226,SKU-00226,Elm Air Fryer Plus 2,Home,Elm,1825.0,1013.31,3.7,1,Elm air fryer designed for daily home use; versatile option.,12
+P0227,SKU-00227,Elm Running Shoes Plus 3,Fashion,Elm,1391.0,706.58,3.4,1,Elm running shoes designed for daily fashion use; versatile option.,3
+P0228,SKU-00228,Elm Yoga Mat Plus 4,Fitness,Elm,1411.0,817.36,4.6,1,Elm yoga mat designed for daily fitness use; versatile option.,12
+P0229,SKU-00229,Elm Wireless Mouse Plus 5,Electronics,Elm,1913.0,1341.28,4.5,1,Elm wireless mouse designed for daily electronics use; versatile option.,12
+P0230,SKU-00230,Elm Desk Lamp Plus 1,Home,Elm,1858.0,1370.7,3.9,1,Elm desk lamp designed for daily home use; versatile option.,12
+P0231,SKU-00231,Elm Cotton T-Shirt Plus 2,Fashion,Elm,1009.0,689.63,4.3,1,Elm cotton t-shirt designed for daily fashion use; versatile option.,3
+P0232,SKU-00232,Elm Resistance Bands Plus 3,Fitness,Elm,1385.0,988.45,4.4,0,Elm resistance bands designed for daily fitness use; versatile option.,12
+P0233,SKU-00233,Elm USB-C Hub Plus 4,Electronics,Elm,1658.0,1219.03,3.6,1,Elm usb-c hub designed for daily electronics use; versatile option.,12
+P0234,SKU-00234,Elm Water Bottle Plus 5,Home,Elm,1372.0,742.35,3.4,1,Elm water bottle designed for daily home use; versatile option.,12
+P0235,SKU-00235,Elm Hoodie Plus 1,Fashion,Elm,1424.0,749.02,4.3,1,Elm hoodie designed for daily fashion use; versatile option.,3
+P0236,SKU-00236,Elm Foam Roller Plus 2,Fitness,Elm,1527.0,918.21,3.3,1,Elm foam roller designed for daily fitness use; versatile option.,12
+P0237,SKU-00237,Elm Power Bank Plus 3,Electronics,Elm,2076.0,1289.44,3.9,1,Elm power bank designed for daily electronics use; versatile option.,12
+P0238,SKU-00238,Elm Storage Box Pro 4,Home,Elm,1999.0,1413.59,4.6,1,Elm storage box designed for daily home use; premium option.,12
+P0239,SKU-00239,Elm Backpack Pro 5,Fashion,Elm,1676.0,1269.38,3.5,1,Elm backpack designed for daily fashion use; premium option.,3
+P0240,SKU-00240,Elm Dumbbell Set Pro 1,Fitness,Elm,1674.0,1163.03,3.5,1,Elm dumbbell set designed for daily fitness use; premium option.,12

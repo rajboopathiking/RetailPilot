@@ -1,0 +1,451 @@
+ticket_id,customer_id,order_id,category,subject,status,priority,created_at,channel
+T0001,C0211,O00274,payment_issue,Payment confirmation,resolved,low,2026-06-21,chat
+T0002,C0209,O00996,payment_issue,Payment confirmation,pending,low,2026-02-27,email
+T0003,C0357,,product_question,Product compatibility question,pending,low,2026-04-09,chat
+T0004,C0490,O01657,return_refund,Request a return or refund,resolved,medium,2026-09-19,email
+T0005,C0185,O00906,return_refund,Request a return or refund,resolved,medium,2026-10-06,chat
+T0006,C0482,O00190,shipping_policy,Delivery time and fees,resolved,medium,2026-08-29,email
+T0007,C0064,,product_question,Product compatibility question,resolved,medium,2026-03-22,chat
+T0008,C0039,O01162,shipping_policy,Delivery time and fees,resolved,high,2026-09-30,email
+T0009,C0315,O00559,shipping_policy,Delivery time and fees,pending,medium,2026-05-20,email
+T0010,C0472,O00550,shipping_policy,Delivery time and fees,pending,high,2026-09-18,chat
+T0011,C0021,O01589,return_refund,Request a return or refund,pending,medium,2026-06-08,email
+T0012,C0161,O00324,payment_issue,Payment confirmation,pending,high,2026-01-25,email
+T0013,C0069,O00633,where_is_my_order,Order tracking request,resolved,medium,2026-01-07,email
+T0014,C0542,O00622,shipping_policy,Delivery time and fees,open,medium,2026-07-27,chat
+T0015,C0267,O00616,shipping_policy,Delivery time and fees,open,medium,2026-08-11,chat
+T0016,C0245,O01573,return_refund,Request a return or refund,resolved,medium,2026-10-09,email
+T0017,C0116,O01348,shipping_policy,Delivery time and fees,resolved,medium,2026-01-11,email
+T0018,C0553,O00858,where_is_my_order,Order tracking request,resolved,medium,2026-01-07,email
+T0019,C0402,O01554,shipping_policy,Delivery time and fees,open,high,2026-05-29,chat
+T0020,C0040,O00013,where_is_my_order,Order tracking request,resolved,medium,2026-09-30,email
+T0021,C0367,O01585,payment_issue,Payment confirmation,open,low,2026-07-02,email
+T0022,C0132,O00519,where_is_my_order,Order tracking request,open,medium,2026-06-26,email
+T0023,C0568,O00329,where_is_my_order,Order tracking request,pending,high,2026-08-22,chat
+T0024,C0465,O01757,shipping_policy,Delivery time and fees,open,medium,2026-07-27,chat
+T0025,C0406,O00263,payment_issue,Payment confirmation,open,medium,2026-05-02,chat
+T0026,C0035,O01352,return_refund,Request a return or refund,pending,medium,2026-01-24,chat
+T0027,C0373,,product_question,Product compatibility question,open,low,2026-04-18,email
+T0028,C0187,O00291,payment_issue,Payment confirmation,open,medium,2026-05-09,email
+T0029,C0327,O01037,shipping_policy,Delivery time and fees,resolved,low,2026-08-17,email
+T0030,C0473,,product_question,Product compatibility question,pending,low,2026-04-14,email
+T0031,C0318,O01626,return_refund,Request a return or refund,open,medium,2026-03-01,email
+T0032,C0445,O00961,shipping_policy,Delivery time and fees,resolved,medium,2026-06-01,chat
+T0033,C0586,O01559,return_refund,Request a return or refund,resolved,medium,2026-09-25,email
+T0034,C0202,O00549,return_refund,Request a return or refund,open,medium,2026-07-26,email
+T0035,C0212,O00038,where_is_my_order,Order tracking request,pending,medium,2026-05-29,chat
+T0036,C0090,O00446,payment_issue,Payment confirmation,open,medium,2026-07-24,chat
+T0037,C0472,O00338,shipping_policy,Delivery time and fees,pending,medium,2026-05-08,chat
+T0038,C0195,,product_question,Product compatibility question,open,medium,2026-08-18,email
+T0039,C0051,O01127,return_refund,Request a return or refund,open,medium,2026-09-15,chat
+T0040,C0579,O00394,where_is_my_order,Order tracking request,pending,medium,2026-05-07,email
+T0041,C0300,O01512,where_is_my_order,Order tracking request,pending,medium,2026-08-20,chat
+T0042,C0446,O00107,return_refund,Request a return or refund,open,medium,2026-03-04,email
+T0043,C0021,,product_question,Product compatibility question,resolved,medium,2026-10-04,chat
+T0044,C0486,O00330,payment_issue,Payment confirmation,pending,low,2026-07-02,email
+T0045,C0268,O00711,return_refund,Request a return or refund,resolved,medium,2026-02-10,chat
+T0046,C0500,,product_question,Product compatibility question,resolved,medium,2026-07-18,email
+T0047,C0420,O00182,return_refund,Request a return or refund,resolved,medium,2026-05-27,email
+T0048,C0089,O01502,return_refund,Request a return or refund,pending,medium,2026-06-09,chat
+T0049,C0416,O00920,payment_issue,Payment confirmation,open,medium,2026-01-23,email
+T0050,C0121,O01716,shipping_policy,Delivery time and fees,pending,medium,2026-04-20,email
+T0051,C0316,,product_question,Product compatibility question,pending,medium,2026-08-27,chat
+T0052,C0376,O01081,return_refund,Request a return or refund,resolved,low,2026-09-20,chat
+T0053,C0470,O01446,return_refund,Request a return or refund,resolved,high,2026-09-13,chat
+T0054,C0437,,product_question,Product compatibility question,resolved,low,2026-06-30,email
+T0055,C0246,O00540,where_is_my_order,Order tracking request,open,medium,2026-06-26,email
+T0056,C0344,O01075,payment_issue,Payment confirmation,open,low,2026-03-16,email
+T0057,C0143,O00260,where_is_my_order,Order tracking request,open,low,2026-07-24,email
+T0058,C0246,O01787,where_is_my_order,Order tracking request,resolved,medium,2026-08-23,chat
+T0059,C0376,O01394,payment_issue,Payment confirmation,open,low,2026-07-18,chat
+T0060,C0251,,product_question,Product compatibility question,resolved,medium,2026-07-20,email
+T0061,C0578,O00796,return_refund,Request a return or refund,resolved,medium,2026-10-07,chat
+T0062,C0422,O01008,return_refund,Request a return or refund,open,medium,2026-08-10,chat
+T0063,C0416,,product_question,Product compatibility question,open,low,2026-08-04,chat
+T0064,C0083,O00636,shipping_policy,Delivery time and fees,open,low,2026-08-23,chat
+T0065,C0236,O01295,payment_issue,Payment confirmation,open,medium,2026-05-26,email
+T0066,C0094,O00655,shipping_policy,Delivery time and fees,open,medium,2026-06-28,email
+T0067,C0100,O00952,payment_issue,Payment confirmation,pending,low,2026-05-31,chat
+T0068,C0003,O01018,where_is_my_order,Order tracking request,open,low,2026-01-21,email
+T0069,C0278,O00027,return_refund,Request a return or refund,open,medium,2026-10-02,email
+T0070,C0064,O01261,return_refund,Request a return or refund,pending,medium,2026-05-18,email
+T0071,C0368,O01308,shipping_policy,Delivery time and fees,open,medium,2026-09-02,email
+T0072,C0435,,product_question,Product compatibility question,resolved,low,2026-02-21,chat
+T0073,C0044,O01761,return_refund,Request a return or refund,pending,low,2026-02-27,chat
+T0074,C0523,O01609,return_refund,Request a return or refund,resolved,medium,2026-06-09,email
+T0075,C0271,,product_question,Product compatibility question,resolved,medium,2026-03-16,email
+T0076,C0454,O01593,where_is_my_order,Order tracking request,open,medium,2026-08-10,email
+T0077,C0094,O01542,payment_issue,Payment confirmation,open,low,2026-05-07,email
+T0078,C0256,O00851,where_is_my_order,Order tracking request,resolved,medium,2026-05-10,chat
+T0079,C0480,O01144,shipping_policy,Delivery time and fees,pending,medium,2026-04-10,email
+T0080,C0381,O01644,where_is_my_order,Order tracking request,resolved,medium,2026-05-08,chat
+T0081,C0504,O01170,payment_issue,Payment confirmation,open,medium,2026-03-02,chat
+T0082,C0247,O01789,return_refund,Request a return or refund,pending,medium,2026-07-04,chat
+T0083,C0528,,product_question,Product compatibility question,resolved,low,2026-04-23,email
+T0084,C0270,O00275,shipping_policy,Delivery time and fees,open,medium,2026-05-29,chat
+T0085,C0375,,product_question,Product compatibility question,resolved,medium,2026-07-12,chat
+T0086,C0439,,product_question,Product compatibility question,open,medium,2026-05-06,email
+T0087,C0402,O01441,shipping_policy,Delivery time and fees,pending,high,2026-08-24,chat
+T0088,C0167,O01771,where_is_my_order,Order tracking request,pending,medium,2026-08-16,email
+T0089,C0306,O00574,return_refund,Request a return or refund,pending,high,2026-06-24,chat
+T0090,C0030,O00101,payment_issue,Payment confirmation,resolved,medium,2026-09-25,chat
+T0091,C0500,O01015,where_is_my_order,Order tracking request,resolved,medium,2026-03-06,email
+T0092,C0078,O00571,return_refund,Request a return or refund,open,medium,2026-03-21,email
+T0093,C0565,O01745,return_refund,Request a return or refund,pending,medium,2026-05-03,chat
+T0094,C0231,O01376,shipping_policy,Delivery time and fees,pending,medium,2026-03-05,email
+T0095,C0499,O00051,return_refund,Request a return or refund,resolved,medium,2026-02-19,email
+T0096,C0157,O00365,where_is_my_order,Order tracking request,pending,medium,2026-07-16,email
+T0097,C0381,,product_question,Product compatibility question,pending,low,2026-05-09,chat
+T0098,C0544,O00893,return_refund,Request a return or refund,open,medium,2026-08-24,email
+T0099,C0366,,product_question,Product compatibility question,resolved,high,2026-05-17,chat
+T0100,C0232,O00408,where_is_my_order,Order tracking request,resolved,low,2026-04-14,email
+T0101,C0498,O01673,payment_issue,Payment confirmation,pending,low,2026-03-05,email
+T0102,C0288,O01577,return_refund,Request a return or refund,pending,medium,2026-04-01,email
+T0103,C0355,O00625,payment_issue,Payment confirmation,resolved,medium,2026-09-06,chat
+T0104,C0062,O00255,payment_issue,Payment confirmation,pending,low,2026-08-30,chat
+T0105,C0249,O00546,payment_issue,Payment confirmation,open,high,2026-08-25,chat
+T0106,C0312,O00360,payment_issue,Payment confirmation,resolved,medium,2026-02-15,email
+T0107,C0499,,product_question,Product compatibility question,resolved,medium,2026-03-03,chat
+T0108,C0268,O01056,where_is_my_order,Order tracking request,open,medium,2026-01-23,email
+T0109,C0346,O00889,shipping_policy,Delivery time and fees,open,high,2026-02-20,chat
+T0110,C0536,O01034,payment_issue,Payment confirmation,resolved,medium,2026-10-12,email
+T0111,C0529,O00114,payment_issue,Payment confirmation,open,high,2026-05-13,email
+T0112,C0462,O00942,shipping_policy,Delivery time and fees,open,medium,2026-05-07,chat
+T0113,C0580,O00819,shipping_policy,Delivery time and fees,pending,medium,2026-04-17,chat
+T0114,C0170,,product_question,Product compatibility question,open,low,2026-01-23,chat
+T0115,C0052,O00817,where_is_my_order,Order tracking request,pending,medium,2026-05-19,email
+T0116,C0313,O00025,return_refund,Request a return or refund,resolved,medium,2026-08-31,chat
+T0117,C0137,O00442,payment_issue,Payment confirmation,resolved,medium,2026-02-23,email
+T0118,C0577,O00912,return_refund,Request a return or refund,resolved,high,2026-04-02,email
+T0119,C0505,O00349,payment_issue,Payment confirmation,pending,low,2026-09-29,chat
+T0120,C0384,,product_question,Product compatibility question,open,high,2026-09-08,chat
+T0121,C0517,O01062,shipping_policy,Delivery time and fees,resolved,medium,2026-02-20,email
+T0122,C0233,O01357,shipping_policy,Delivery time and fees,pending,low,2026-06-18,email
+T0123,C0375,O00565,payment_issue,Payment confirmation,pending,low,2026-07-10,chat
+T0124,C0173,O01642,shipping_policy,Delivery time and fees,pending,low,2026-08-12,email
+T0125,C0308,O00061,shipping_policy,Delivery time and fees,pending,high,2026-08-02,chat
+T0126,C0418,O01202,payment_issue,Payment confirmation,resolved,medium,2026-09-18,chat
+T0127,C0479,O00736,payment_issue,Payment confirmation,pending,medium,2026-04-21,chat
+T0128,C0356,O01468,shipping_policy,Delivery time and fees,resolved,low,2026-10-13,email
+T0129,C0433,O00578,return_refund,Request a return or refund,open,medium,2026-02-13,email
+T0130,C0270,O00275,return_refund,Request a return or refund,open,medium,2026-05-28,chat
+T0131,C0415,,product_question,Product compatibility question,open,low,2026-07-26,email
+T0132,C0051,O00751,where_is_my_order,Order tracking request,open,high,2026-10-01,chat
+T0133,C0588,O00880,payment_issue,Payment confirmation,resolved,medium,2026-02-08,chat
+T0134,C0136,O00728,where_is_my_order,Order tracking request,open,low,2026-09-30,chat
+T0135,C0081,O01762,where_is_my_order,Order tracking request,open,high,2026-10-04,email
+T0136,C0317,O00975,shipping_policy,Delivery time and fees,open,medium,2026-06-30,email
+T0137,C0217,,product_question,Product compatibility question,resolved,medium,2026-02-16,email
+T0138,C0308,O01629,return_refund,Request a return or refund,open,medium,2026-04-12,chat
+T0139,C0027,,product_question,Product compatibility question,open,medium,2026-07-10,chat
+T0140,C0212,,product_question,Product compatibility question,pending,medium,2026-01-12,email
+T0141,C0112,O00341,shipping_policy,Delivery time and fees,pending,medium,2026-04-03,email
+T0142,C0541,,product_question,Product compatibility question,resolved,medium,2026-08-27,chat
+T0143,C0129,,product_question,Product compatibility question,pending,low,2026-08-01,chat
+T0144,C0308,O00963,shipping_policy,Delivery time and fees,open,low,2026-06-23,email
+T0145,C0586,,product_question,Product compatibility question,resolved,medium,2026-08-31,chat
+T0146,C0246,O00721,shipping_policy,Delivery time and fees,open,medium,2026-01-30,chat
+T0147,C0456,O00492,return_refund,Request a return or refund,resolved,medium,2026-08-20,email
+T0148,C0587,O01277,return_refund,Request a return or refund,open,low,2026-06-28,email
+T0149,C0166,O00782,where_is_my_order,Order tracking request,pending,medium,2026-04-16,chat
+T0150,C0507,O00836,payment_issue,Payment confirmation,pending,low,2026-04-23,email
+T0151,C0202,,product_question,Product compatibility question,open,high,2026-07-20,email
+T0152,C0197,O01477,return_refund,Request a return or refund,resolved,high,2026-07-04,email
+T0153,C0356,,product_question,Product compatibility question,pending,low,2026-03-08,chat
+T0154,C0413,,product_question,Product compatibility question,open,medium,2026-08-11,email
+T0155,C0354,O00792,return_refund,Request a return or refund,resolved,high,2026-03-16,chat
+T0156,C0465,O01757,payment_issue,Payment confirmation,pending,high,2026-07-29,email
+T0157,C0256,O00087,return_refund,Request a return or refund,pending,low,2026-02-21,email
+T0158,C0419,O00425,shipping_policy,Delivery time and fees,open,medium,2026-05-21,chat
+T0159,C0434,,product_question,Product compatibility question,resolved,medium,2026-04-13,email
+T0160,C0306,O00574,payment_issue,Payment confirmation,resolved,medium,2026-06-29,chat
+T0161,C0002,O00161,shipping_policy,Delivery time and fees,pending,high,2026-06-09,chat
+T0162,C0299,O01179,return_refund,Request a return or refund,pending,medium,2026-08-14,email
+T0163,C0306,O00617,return_refund,Request a return or refund,resolved,medium,2026-03-23,chat
+T0164,C0452,O00124,payment_issue,Payment confirmation,pending,medium,2026-01-28,email
+T0165,C0526,O01208,shipping_policy,Delivery time and fees,open,medium,2026-05-21,chat
+T0166,C0332,O01614,shipping_policy,Delivery time and fees,resolved,medium,2026-07-20,email
+T0167,C0403,O00026,payment_issue,Payment confirmation,pending,medium,2026-07-30,email
+T0168,C0001,O00933,shipping_policy,Delivery time and fees,open,medium,2026-03-11,email
+T0169,C0061,O01272,return_refund,Request a return or refund,pending,medium,2026-07-23,email
+T0170,C0039,O00555,payment_issue,Payment confirmation,pending,medium,2026-04-25,chat
+T0171,C0357,O00913,payment_issue,Payment confirmation,pending,high,2026-07-02,email
+T0172,C0036,O00447,shipping_policy,Delivery time and fees,open,medium,2026-10-08,email
+T0173,C0300,,product_question,Product compatibility question,pending,medium,2026-05-16,email
+T0174,C0581,,product_question,Product compatibility question,pending,medium,2026-01-07,chat
+T0175,C0279,O00276,where_is_my_order,Order tracking request,pending,medium,2026-09-06,email
+T0176,C0385,,product_question,Product compatibility question,open,high,2026-06-04,email
+T0177,C0200,,product_question,Product compatibility question,resolved,medium,2026-10-03,email
+T0178,C0016,O01122,where_is_my_order,Order tracking request,resolved,high,2026-10-12,email
+T0179,C0221,O01072,return_refund,Request a return or refund,open,medium,2026-06-14,chat
+T0180,C0432,O00875,return_refund,Request a return or refund,open,medium,2026-05-22,email
+T0181,C0158,O01311,shipping_policy,Delivery time and fees,open,low,2026-08-13,chat
+T0182,C0489,,product_question,Product compatibility question,resolved,low,2026-08-16,email
+T0183,C0518,O00922,where_is_my_order,Order tracking request,pending,medium,2026-06-04,chat
+T0184,C0067,O00289,shipping_policy,Delivery time and fees,resolved,medium,2026-04-09,chat
+T0185,C0242,O01647,shipping_policy,Delivery time and fees,pending,medium,2026-09-18,chat
+T0186,C0531,O00753,shipping_policy,Delivery time and fees,open,low,2026-06-11,email
+T0187,C0297,O00783,return_refund,Request a return or refund,pending,high,2026-02-26,email
+T0188,C0233,O01357,shipping_policy,Delivery time and fees,resolved,medium,2026-06-24,chat
+T0189,C0316,O01073,return_refund,Request a return or refund,resolved,low,2026-08-30,email
+T0190,C0059,O00793,payment_issue,Payment confirmation,resolved,medium,2026-08-05,email
+T0191,C0404,O00371,shipping_policy,Delivery time and fees,resolved,high,2026-04-06,chat
+T0192,C0403,O01735,where_is_my_order,Order tracking request,resolved,high,2026-05-17,chat
+T0193,C0586,,product_question,Product compatibility question,open,high,2026-06-14,chat
+T0194,C0167,O01278,shipping_policy,Delivery time and fees,resolved,high,2026-03-23,chat
+T0195,C0335,O01086,payment_issue,Payment confirmation,pending,medium,2026-08-31,chat
+T0196,C0201,O01349,shipping_policy,Delivery time and fees,pending,high,2026-04-02,email
+T0197,C0127,,product_question,Product compatibility question,open,medium,2026-08-31,email
+T0198,C0205,O01137,shipping_policy,Delivery time and fees,resolved,medium,2026-02-09,email
+T0199,C0150,,product_question,Product compatibility question,resolved,medium,2026-05-03,chat
+T0200,C0105,O00356,where_is_my_order,Order tracking request,pending,low,2026-05-14,email
+T0201,C0247,O01131,return_refund,Request a return or refund,open,medium,2026-10-08,chat
+T0202,C0409,O00984,return_refund,Request a return or refund,pending,medium,2026-09-25,email
+T0203,C0322,O00194,shipping_policy,Delivery time and fees,resolved,medium,2026-07-30,email
+T0204,C0466,O00151,shipping_policy,Delivery time and fees,pending,medium,2026-07-30,chat
+T0205,C0196,O00106,shipping_policy,Delivery time and fees,open,low,2026-08-24,email
+T0206,C0236,O00317,payment_issue,Payment confirmation,open,medium,2026-07-12,chat
+T0207,C0317,O00975,return_refund,Request a return or refund,resolved,medium,2026-07-04,email
+T0208,C0255,,product_question,Product compatibility question,pending,high,2026-05-16,email
+T0209,C0400,,product_question,Product compatibility question,open,medium,2026-04-30,chat
+T0210,C0092,O01713,payment_issue,Payment confirmation,pending,low,2026-08-26,chat
+T0211,C0075,O01045,return_refund,Request a return or refund,open,medium,2026-06-11,email
+T0212,C0551,O01423,where_is_my_order,Order tracking request,resolved,low,2026-04-09,email
+T0213,C0468,O01019,return_refund,Request a return or refund,resolved,medium,2026-09-06,chat
+T0214,C0339,O01605,payment_issue,Payment confirmation,pending,low,2026-07-09,email
+T0215,C0523,O01164,return_refund,Request a return or refund,open,medium,2026-08-25,email
+T0216,C0340,O01784,return_refund,Request a return or refund,resolved,low,2026-06-26,chat
+T0217,C0227,O00167,shipping_policy,Delivery time and fees,resolved,low,2026-04-04,chat
+T0218,C0314,O00770,payment_issue,Payment confirmation,resolved,medium,2026-03-22,chat
+T0219,C0260,O01625,shipping_policy,Delivery time and fees,pending,low,2026-01-18,email
+T0220,C0408,O00306,payment_issue,Payment confirmation,pending,low,2026-04-02,email
+T0221,C0319,O00512,payment_issue,Payment confirmation,open,medium,2026-03-11,chat
+T0222,C0454,O00516,payment_issue,Payment confirmation,resolved,medium,2026-06-22,email
+T0223,C0266,O01340,shipping_policy,Delivery time and fees,open,low,2026-10-11,email
+T0224,C0257,O00230,payment_issue,Payment confirmation,resolved,medium,2026-03-27,email
+T0225,C0477,O00314,payment_issue,Payment confirmation,resolved,low,2026-04-27,email
+T0226,C0045,O01634,shipping_policy,Delivery time and fees,pending,medium,2026-04-14,email
+T0227,C0539,,product_question,Product compatibility question,open,medium,2026-04-22,chat
+T0228,C0565,O00926,where_is_my_order,Order tracking request,pending,medium,2026-07-22,email
+T0229,C0105,O01435,return_refund,Request a return or refund,open,low,2026-08-08,chat
+T0230,C0032,O01005,where_is_my_order,Order tracking request,resolved,medium,2026-03-07,chat
+T0231,C0358,O01071,shipping_policy,Delivery time and fees,resolved,low,2026-02-27,chat
+T0232,C0002,O00837,where_is_my_order,Order tracking request,pending,medium,2026-09-14,email
+T0233,C0169,O01335,return_refund,Request a return or refund,pending,medium,2026-08-16,chat
+T0234,C0517,O00976,where_is_my_order,Order tracking request,resolved,medium,2026-07-18,email
+T0235,C0394,,product_question,Product compatibility question,open,medium,2026-10-14,chat
+T0236,C0309,O00973,where_is_my_order,Order tracking request,resolved,high,2026-05-08,chat
+T0237,C0455,O01082,where_is_my_order,Order tracking request,pending,medium,2026-07-30,chat
+T0238,C0006,O01679,shipping_policy,Delivery time and fees,resolved,medium,2026-07-13,chat
+T0239,C0560,O00448,shipping_policy,Delivery time and fees,resolved,low,2026-04-07,chat
+T0240,C0387,,product_question,Product compatibility question,resolved,medium,2026-06-28,chat
+T0241,C0409,O00305,payment_issue,Payment confirmation,pending,low,2026-09-03,email
+T0242,C0241,O00403,payment_issue,Payment confirmation,pending,low,2026-02-19,email
+T0243,C0241,O00585,shipping_policy,Delivery time and fees,pending,high,2026-08-13,chat
+T0244,C0563,O00666,payment_issue,Payment confirmation,resolved,high,2026-02-04,chat
+T0245,C0157,O00113,shipping_policy,Delivery time and fees,resolved,medium,2026-05-14,chat
+T0246,C0236,O01149,where_is_my_order,Order tracking request,resolved,low,2026-07-05,email
+T0247,C0123,O00826,shipping_policy,Delivery time and fees,resolved,medium,2026-06-06,chat
+T0248,C0415,O00919,where_is_my_order,Order tracking request,open,low,2026-08-22,email
+T0249,C0055,O01736,return_refund,Request a return or refund,resolved,high,2026-02-08,email
+T0250,C0196,,product_question,Product compatibility question,resolved,medium,2026-10-12,chat
+T0251,C0044,O01761,return_refund,Request a return or refund,open,medium,2026-02-28,email
+T0252,C0154,O01606,where_is_my_order,Order tracking request,pending,low,2026-04-03,chat
+T0253,C0234,,product_question,Product compatibility question,pending,medium,2026-06-11,chat
+T0254,C0298,O00949,shipping_policy,Delivery time and fees,pending,low,2026-08-06,email
+T0255,C0339,O00543,return_refund,Request a return or refund,pending,medium,2026-01-31,email
+T0256,C0015,O00309,return_refund,Request a return or refund,pending,medium,2026-09-22,chat
+T0257,C0294,,product_question,Product compatibility question,resolved,medium,2026-03-11,chat
+T0258,C0205,O00675,payment_issue,Payment confirmation,resolved,medium,2026-09-29,email
+T0259,C0115,O01538,shipping_policy,Delivery time and fees,resolved,high,2026-08-17,chat
+T0260,C0558,O00659,shipping_policy,Delivery time and fees,pending,medium,2026-05-12,chat
+T0261,C0330,O00953,where_is_my_order,Order tracking request,resolved,medium,2026-05-21,email
+T0262,C0299,O01457,shipping_policy,Delivery time and fees,pending,medium,2026-01-30,email
+T0263,C0246,O01383,return_refund,Request a return or refund,resolved,medium,2026-04-27,chat
+T0264,C0570,,product_question,Product compatibility question,open,high,2026-06-27,chat
+T0265,C0266,O01340,shipping_policy,Delivery time and fees,resolved,low,2026-10-16,email
+T0266,C0101,,product_question,Product compatibility question,open,medium,2026-05-21,email
+T0267,C0394,O00795,return_refund,Request a return or refund,pending,medium,2026-02-13,chat
+T0268,C0495,,product_question,Product compatibility question,resolved,low,2026-06-05,chat
+T0269,C0188,O01444,payment_issue,Payment confirmation,resolved,medium,2026-03-16,email
+T0270,C0129,O00155,where_is_my_order,Order tracking request,open,medium,2026-07-31,email
+T0271,C0335,O00253,where_is_my_order,Order tracking request,pending,high,2026-02-03,chat
+T0272,C0136,O00943,shipping_policy,Delivery time and fees,resolved,medium,2026-07-05,chat
+T0273,C0171,O00931,return_refund,Request a return or refund,pending,high,2026-07-24,chat
+T0274,C0016,O00011,payment_issue,Payment confirmation,pending,low,2026-03-13,chat
+T0275,C0015,O00392,payment_issue,Payment confirmation,open,high,2026-08-10,email
+T0276,C0470,,product_question,Product compatibility question,pending,medium,2026-09-20,chat
+T0277,C0064,O01419,where_is_my_order,Order tracking request,resolved,medium,2026-03-07,email
+T0278,C0063,O01042,payment_issue,Payment confirmation,open,low,2026-10-04,chat
+T0279,C0530,O01341,shipping_policy,Delivery time and fees,pending,low,2026-05-15,email
+T0280,C0416,O00920,return_refund,Request a return or refund,resolved,low,2026-01-26,chat
+T0281,C0098,O00069,return_refund,Request a return or refund,pending,medium,2026-01-18,email
+T0282,C0083,O00636,shipping_policy,Delivery time and fees,pending,medium,2026-08-25,email
+T0283,C0218,,product_question,Product compatibility question,open,medium,2026-08-12,chat
+T0284,C0341,O00966,shipping_policy,Delivery time and fees,pending,low,2026-01-29,chat
+T0285,C0135,O00481,payment_issue,Payment confirmation,resolved,medium,2026-02-14,chat
+T0286,C0356,O01468,shipping_policy,Delivery time and fees,open,medium,2026-10-10,chat
+T0287,C0531,,product_question,Product compatibility question,resolved,medium,2026-02-10,email
+T0288,C0218,,product_question,Product compatibility question,resolved,low,2026-08-15,email
+T0289,C0204,O00358,shipping_policy,Delivery time and fees,resolved,medium,2026-09-04,chat
+T0290,C0496,,product_question,Product compatibility question,resolved,high,2026-08-08,chat
+T0291,C0577,O00912,return_refund,Request a return or refund,resolved,low,2026-04-03,chat
+T0292,C0593,O01088,shipping_policy,Delivery time and fees,resolved,medium,2026-05-08,email
+T0293,C0040,O00679,return_refund,Request a return or refund,pending,medium,2026-09-19,chat
+T0294,C0568,O00329,shipping_policy,Delivery time and fees,open,medium,2026-08-22,email
+T0295,C0465,O01372,where_is_my_order,Order tracking request,pending,medium,2026-03-04,chat
+T0296,C0069,O00397,where_is_my_order,Order tracking request,resolved,medium,2026-02-03,chat
+T0297,C0146,O01106,where_is_my_order,Order tracking request,resolved,medium,2026-04-12,chat
+T0298,C0052,O01321,shipping_policy,Delivery time and fees,open,low,2026-01-06,chat
+T0299,C0303,O01236,shipping_policy,Delivery time and fees,open,high,2026-06-11,chat
+T0300,C0196,O01327,return_refund,Request a return or refund,pending,medium,2026-07-01,email
+T0301,C0169,O00531,payment_issue,Payment confirmation,pending,medium,2026-01-03,chat
+T0302,C0372,O00584,where_is_my_order,Order tracking request,open,low,2026-10-09,chat
+T0303,C0132,O00519,payment_issue,Payment confirmation,resolved,low,2026-06-26,email
+T0304,C0478,O01333,where_is_my_order,Order tracking request,resolved,medium,2026-06-08,email
+T0305,C0049,O01540,return_refund,Request a return or refund,pending,medium,2026-08-29,email
+T0306,C0463,,product_question,Product compatibility question,resolved,low,2026-04-02,chat
+T0307,C0485,O01652,shipping_policy,Delivery time and fees,pending,medium,2026-07-30,chat
+T0308,C0450,O01465,payment_issue,Payment confirmation,resolved,high,2026-08-14,chat
+T0309,C0517,O01194,return_refund,Request a return or refund,open,medium,2026-08-17,chat
+T0310,C0592,,product_question,Product compatibility question,pending,high,2026-08-04,chat
+T0311,C0153,O00810,where_is_my_order,Order tracking request,resolved,low,2026-09-19,chat
+T0312,C0046,O01298,payment_issue,Payment confirmation,pending,medium,2026-02-14,email
+T0313,C0599,,product_question,Product compatibility question,pending,high,2026-04-13,email
+T0314,C0552,,product_question,Product compatibility question,open,high,2026-07-08,email
+T0315,C0313,O00589,shipping_policy,Delivery time and fees,open,low,2026-02-03,chat
+T0316,C0024,,product_question,Product compatibility question,pending,high,2026-06-04,chat
+T0317,C0465,,product_question,Product compatibility question,open,low,2026-03-06,email
+T0318,C0421,O00618,payment_issue,Payment confirmation,resolved,low,2026-05-27,chat
+T0319,C0455,O01082,payment_issue,Payment confirmation,open,medium,2026-07-29,chat
+T0320,C0021,O01589,payment_issue,Payment confirmation,open,low,2026-06-06,chat
+T0321,C0365,O00572,where_is_my_order,Order tracking request,open,medium,2026-08-10,chat
+T0322,C0233,O01357,shipping_policy,Delivery time and fees,resolved,medium,2026-06-16,email
+T0323,C0227,O01558,shipping_policy,Delivery time and fees,open,low,2026-04-10,email
+T0324,C0280,O00964,where_is_my_order,Order tracking request,open,low,2026-03-19,chat
+T0325,C0291,O01312,where_is_my_order,Order tracking request,pending,medium,2026-05-18,email
+T0326,C0505,O01684,where_is_my_order,Order tracking request,pending,medium,2026-07-01,chat
+T0327,C0080,O00577,payment_issue,Payment confirmation,resolved,medium,2026-08-18,chat
+T0328,C0358,O01071,payment_issue,Payment confirmation,open,medium,2026-02-24,chat
+T0329,C0518,,product_question,Product compatibility question,open,medium,2026-06-06,chat
+T0330,C0070,O01408,shipping_policy,Delivery time and fees,resolved,medium,2026-06-22,chat
+T0331,C0272,,product_question,Product compatibility question,open,high,2026-03-26,chat
+T0332,C0018,O01412,return_refund,Request a return or refund,open,low,2026-01-08,email
+T0333,C0114,O00691,where_is_my_order,Order tracking request,open,high,2026-05-06,email
+T0334,C0554,O01437,where_is_my_order,Order tracking request,pending,medium,2026-02-07,chat
+T0335,C0454,O00062,shipping_policy,Delivery time and fees,pending,high,2026-10-09,email
+T0336,C0143,O01490,return_refund,Request a return or refund,pending,medium,2026-07-17,email
+T0337,C0450,O01351,payment_issue,Payment confirmation,resolved,low,2026-07-05,email
+T0338,C0542,O00008,payment_issue,Payment confirmation,open,medium,2026-07-24,email
+T0339,C0267,O01250,payment_issue,Payment confirmation,resolved,medium,2026-08-24,email
+T0340,C0241,O01750,shipping_policy,Delivery time and fees,resolved,high,2026-09-11,email
+T0341,C0015,O00701,where_is_my_order,Order tracking request,resolved,low,2026-04-15,chat
+T0342,C0074,O00193,payment_issue,Payment confirmation,resolved,low,2026-09-04,email
+T0343,C0446,O01786,where_is_my_order,Order tracking request,open,high,2026-06-13,chat
+T0344,C0270,O00275,return_refund,Request a return or refund,open,high,2026-05-31,chat
+T0345,C0136,O00728,payment_issue,Payment confirmation,pending,medium,2026-10-08,email
+T0346,C0366,,product_question,Product compatibility question,open,medium,2026-01-14,chat
+T0347,C0384,O01190,shipping_policy,Delivery time and fees,pending,medium,2026-09-09,email
+T0348,C0427,O01174,shipping_policy,Delivery time and fees,resolved,low,2026-08-12,chat
+T0349,C0373,O00843,payment_issue,Payment confirmation,resolved,medium,2026-08-05,chat
+T0350,C0421,O00820,payment_issue,Payment confirmation,pending,low,2026-05-02,chat
+T0351,C0465,,product_question,Product compatibility question,resolved,medium,2026-07-26,email
+T0352,C0254,O01737,payment_issue,Payment confirmation,resolved,low,2026-07-06,chat
+T0353,C0413,O00495,where_is_my_order,Order tracking request,pending,high,2026-07-18,chat
+T0354,C0424,O00641,return_refund,Request a return or refund,open,low,2026-01-17,chat
+T0355,C0003,O01018,return_refund,Request a return or refund,pending,low,2026-01-20,email
+T0356,C0465,O00460,shipping_policy,Delivery time and fees,open,high,2026-05-25,email
+T0357,C0385,O00946,return_refund,Request a return or refund,open,low,2026-06-16,chat
+T0358,C0031,,product_question,Product compatibility question,open,low,2026-02-07,chat
+T0359,C0131,O01176,return_refund,Request a return or refund,open,high,2026-07-03,email
+T0360,C0318,,product_question,Product compatibility question,open,high,2026-01-18,email
+T0361,C0205,O00675,payment_issue,Payment confirmation,resolved,medium,2026-10-04,email
+T0362,C0030,O00378,where_is_my_order,Order tracking request,open,low,2026-04-18,chat
+T0363,C0356,O01770,return_refund,Request a return or refund,resolved,high,2026-08-12,email
+T0364,C0432,O00186,where_is_my_order,Order tracking request,open,high,2026-03-31,chat
+T0365,C0397,O01567,return_refund,Request a return or refund,open,medium,2026-09-22,email
+T0366,C0232,O01613,payment_issue,Payment confirmation,pending,medium,2026-01-15,email
+T0367,C0143,O00260,shipping_policy,Delivery time and fees,pending,medium,2026-07-22,chat
+T0368,C0042,O01238,payment_issue,Payment confirmation,open,low,2026-05-14,chat
+T0369,C0557,O00673,return_refund,Request a return or refund,open,medium,2026-07-06,email
+T0370,C0062,,product_question,Product compatibility question,open,medium,2026-03-13,chat
+T0371,C0366,,product_question,Product compatibility question,open,medium,2026-03-31,email
+T0372,C0264,O01518,return_refund,Request a return or refund,pending,medium,2026-07-16,chat
+T0373,C0220,O01313,where_is_my_order,Order tracking request,resolved,low,2026-02-06,chat
+T0374,C0036,O00340,return_refund,Request a return or refund,open,medium,2026-03-05,email
+T0375,C0446,O01596,payment_issue,Payment confirmation,open,low,2026-04-10,chat
+T0376,C0271,O01314,payment_issue,Payment confirmation,pending,medium,2026-03-23,email
+T0377,C0547,O00243,shipping_policy,Delivery time and fees,resolved,low,2026-03-04,email
+T0378,C0502,O00788,shipping_policy,Delivery time and fees,pending,medium,2026-08-20,email
+T0379,C0046,O01298,shipping_policy,Delivery time and fees,resolved,low,2026-02-16,chat
+T0380,C0568,O01778,shipping_policy,Delivery time and fees,open,low,2026-03-20,email
+T0381,C0031,O00117,payment_issue,Payment confirmation,resolved,low,2026-08-22,email
+T0382,C0344,,product_question,Product compatibility question,open,medium,2026-01-19,chat
+T0383,C0211,O00143,where_is_my_order,Order tracking request,open,high,2026-06-30,email
+T0384,C0238,O01219,shipping_policy,Delivery time and fees,open,medium,2026-05-11,email
+T0385,C0587,O00664,return_refund,Request a return or refund,resolved,medium,2026-05-02,email
+T0386,C0232,O01665,return_refund,Request a return or refund,resolved,low,2026-03-25,email
+T0387,C0383,O01683,return_refund,Request a return or refund,open,low,2026-07-09,chat
+T0388,C0583,,product_question,Product compatibility question,resolved,high,2026-09-01,email
+T0389,C0409,O01545,payment_issue,Payment confirmation,open,medium,2026-04-18,email
+T0390,C0167,O00806,shipping_policy,Delivery time and fees,pending,low,2026-08-13,chat
+T0391,C0003,O01234,return_refund,Request a return or refund,pending,medium,2026-06-13,email
+T0392,C0409,O00305,payment_issue,Payment confirmation,pending,medium,2026-09-05,email
+T0393,C0499,O01326,shipping_policy,Delivery time and fees,resolved,medium,2026-03-02,email
+T0394,C0115,O00811,shipping_policy,Delivery time and fees,resolved,low,2026-05-18,email
+T0395,C0453,,product_question,Product compatibility question,open,low,2026-06-17,chat
+T0396,C0025,O00307,shipping_policy,Delivery time and fees,pending,medium,2026-07-16,chat
+T0397,C0365,,product_question,Product compatibility question,pending,low,2026-08-10,email
+T0398,C0046,O01455,return_refund,Request a return or refund,resolved,medium,2026-04-10,chat
+T0399,C0556,O00226,shipping_policy,Delivery time and fees,open,medium,2026-02-08,email
+T0400,C0194,O00333,where_is_my_order,Order tracking request,open,medium,2026-08-09,chat
+T0401,C0567,O00076,shipping_policy,Delivery time and fees,resolved,low,2026-06-10,chat
+T0402,C0335,O00244,payment_issue,Payment confirmation,open,low,2026-06-20,chat
+T0403,C0218,O00834,shipping_policy,Delivery time and fees,open,medium,2026-03-02,chat
+T0404,C0440,,product_question,Product compatibility question,open,low,2026-08-11,chat
+T0405,C0048,O01794,shipping_policy,Delivery time and fees,resolved,low,2026-01-23,chat
+T0406,C0514,O01495,shipping_policy,Delivery time and fees,open,medium,2026-05-04,email
+T0407,C0225,,product_question,Product compatibility question,resolved,medium,2026-04-24,chat
+T0408,C0517,O00976,return_refund,Request a return or refund,pending,medium,2026-07-16,email
+T0409,C0062,O00255,where_is_my_order,Order tracking request,resolved,medium,2026-08-29,chat
+T0410,C0115,O00811,payment_issue,Payment confirmation,resolved,low,2026-05-13,chat
+T0411,C0420,O00182,return_refund,Request a return or refund,pending,high,2026-06-03,chat
+T0412,C0416,O00647,payment_issue,Payment confirmation,open,low,2026-02-20,email
+T0413,C0394,O00795,where_is_my_order,Order tracking request,open,medium,2026-02-21,chat
+T0414,C0020,O01431,shipping_policy,Delivery time and fees,resolved,low,2026-07-09,email
+T0415,C0415,,product_question,Product compatibility question,pending,high,2026-08-20,email
+T0416,C0322,O01229,return_refund,Request a return or refund,open,medium,2026-08-25,chat
+T0417,C0043,O01220,shipping_policy,Delivery time and fees,pending,medium,2026-06-10,chat
+T0418,C0246,,product_question,Product compatibility question,open,high,2026-02-16,email
+T0419,C0579,O00814,shipping_policy,Delivery time and fees,pending,medium,2026-04-01,chat
+T0420,C0200,O01776,shipping_policy,Delivery time and fees,resolved,high,2026-09-25,chat
+T0421,C0426,O01302,where_is_my_order,Order tracking request,resolved,medium,2026-08-30,chat
+T0422,C0583,O00286,payment_issue,Payment confirmation,resolved,high,2026-01-06,email
+T0423,C0343,O01782,payment_issue,Payment confirmation,open,low,2026-05-22,chat
+T0424,C0024,O01292,return_refund,Request a return or refund,pending,medium,2026-10-07,chat
+T0425,C0346,O00889,payment_issue,Payment confirmation,resolved,low,2026-02-12,chat
+T0426,C0517,O00057,where_is_my_order,Order tracking request,open,high,2026-07-14,chat
+T0427,C0482,O00414,return_refund,Request a return or refund,open,high,2026-08-23,email
+T0428,C0124,O01433,shipping_policy,Delivery time and fees,open,high,2026-02-17,chat
+T0429,C0473,,product_question,Product compatibility question,pending,medium,2026-08-25,chat
+T0430,C0600,O01637,where_is_my_order,Order tracking request,resolved,medium,2026-05-29,chat
+T0431,C0024,O01049,payment_issue,Payment confirmation,pending,low,2026-07-15,email
+T0432,C0482,O00299,shipping_policy,Delivery time and fees,open,medium,2026-07-09,email
+T0433,C0368,O01729,shipping_policy,Delivery time and fees,pending,medium,2026-07-15,email
+T0434,C0291,,product_question,Product compatibility question,pending,medium,2026-03-04,email
+T0435,C0501,O01704,return_refund,Request a return or refund,resolved,medium,2026-04-15,chat
+T0436,C0344,O00702,where_is_my_order,Order tracking request,resolved,low,2026-02-27,email
+T0437,C0582,O01407,payment_issue,Payment confirmation,pending,low,2026-07-29,email
+T0438,C0472,O00550,where_is_my_order,Order tracking request,open,low,2026-09-24,chat
+T0439,C0201,O01555,where_is_my_order,Order tracking request,pending,low,2026-10-07,chat
+T0440,C0477,O01508,return_refund,Request a return or refund,pending,low,2026-04-16,email
+T0441,C0197,O01477,payment_issue,Payment confirmation,resolved,medium,2026-07-05,chat
+T0442,C0225,,product_question,Product compatibility question,resolved,medium,2026-04-29,chat
+T0443,C0553,O01230,where_is_my_order,Order tracking request,open,medium,2026-03-19,chat
+T0444,C0092,O00233,where_is_my_order,Order tracking request,pending,low,2026-10-08,email
+T0445,C0458,O01473,return_refund,Request a return or refund,open,high,2026-06-06,email
+T0446,C0420,,product_question,Product compatibility question,pending,low,2026-03-31,email
+T0447,C0556,O00804,payment_issue,Payment confirmation,resolved,high,2026-03-28,chat
+T0448,C0396,O00917,return_refund,Request a return or refund,pending,medium,2026-03-03,email
+T0449,C0178,O00787,return_refund,Request a return or refund,pending,medium,2026-05-21,email
+T0450,C0452,,product_question,Product compatibility question,open,low,2026-07-27,chat
