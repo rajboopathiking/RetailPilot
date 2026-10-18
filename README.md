@@ -31,57 +31,76 @@ Online retailers face a dual dilemma: customer support teams are overwhelmed wit
 
 ## 🏛️ System Architecture
 
+RetailPilot uses a hierarchical multi-agent architecture where a central **Orchestration Agent** treats specialized sub-agents as tools. Both specialist agents leverage a shared, modular tool pattern combining **LlamaIndex RAG** (for unstructured knowledge) and **API Tool Functions** (for structured transactional data & future FastMCP integration).
+
 ```mermaid
 flowchart TD
-    User["👤 Shopper / Customer"] --> UI["🖥️ PyDataUI Web Chat / FastAPI REST"]
-    UI --> Router["🧠 LangGraph Supervisor Router"]
+    User["👤 Shopper / Client (Web UI / REST API)"] --> Orch
 
-    Router -->|"Support Intent (Orders, Invoices, Policies)"| SupportAgent["🛡️ Support Specialist Agent"]
-    Router -->|"Sales Intent (Products, Stock, Reports)"| SalesAgent["📈 Sales Specialist Agent"]
-    Router -->|"Chitchat / Greetings"| DirectReply["💬 Direct No-Tool Response"]
-
-    subgraph Support_Tools ["Support Agent Tools"]
-        SupportAgent --> JWTCheck["🔐 JWT Customer Identity Verifier"]
-        JWTCheck --> OrderDB["📦 Order & Shipment Lookup (SQLite)"]
-        JWTCheck --> InvoiceGen["🧾 PDF / Text Invoice Generator"]
-        SupportAgent --> RAGStore["🔍 LlamaIndex Policy RAG (Qdrant BM25 + Dense)"]
+    subgraph Orchestrator_Layer ["Top Layer: Supervisor"]
+        Orch["🧠 Orchestration Agent<br/><b>Uses Agents as Sub-Agents via Tools</b>"]
     end
 
-    subgraph Sales_Tools ["Sales Agent Tools"]
-        SalesAgent --> CatalogDB["🛍️ Product Catalog & Inventory (SQLite)"]
-        SalesAgent --> SafeSQL["🛡️ Allowlisted Read-Only SQL Engine"]
-        SalesAgent --> ProductRAG["📚 Product Knowledge Base"]
+    Orch -->|"Tool Delegation"| A1_Box
+    Orch -->|"Tool Delegation"| A2_Box
+
+    subgraph A1_Box ["Agent - 1 : Support Agent"]
+        direction TB
+        A1_Scope["📋 <b>Capabilities & Scope:</b><br/>• Order Status<br/>• Return Details<br/>• Refund Details<br/>• Shipping Policies<br/>• Store FAQs"]
+
+        A1_Split{" "}
+
+        A1_RAG["🔍 <b>RAG (LlamaIndex-based)</b><br/><i>Handles Shipping Policies & FAQs</i><br/>(Unstructured Data)"]
+        A1_API["⚙️ <b>API Tools (Tool Functions)</b><br/><i>Order, Return, Refund Details for Specific User</i><br/>(Structured Data • Future Plan: FastMCP)"]
+
+        A1_Scope --> A1_Split
+        A1_Split --> A1_RAG
+        A1_Split --> A1_API
     end
 
-    OrderDB --> ResponseSynth["✨ Response Synthesizer & Tool Trace Cards"]
-    InvoiceGen --> ResponseSynth
-    RAGStore --> ResponseSynth
-    CatalogDB --> ResponseSynth
-    SafeSQL --> ResponseSynth
-    DirectReply --> ResponseSynth
+    subgraph A2_Box ["Agent - 2 : Sales Agent"]
+        direction TB
+        A2_Scope["🛍️ <b>Capabilities & Scope:</b><br/>• Available Sales Products<br/>• Sales Product Details<br/>• All Info & Reporting for Sales"]
 
-    ResponseSynth --> UI
+        A2_Tools["🔄 <b>Shared Tools Architecture</b><br/><i>Sales agent uses the same tools pattern for RAG & API Tools:</i><br/>• RAG for product documentation & catalogs<br/>• API Tool functions for inventory & sales reporting"]
+
+        A2_Scope --> A2_Tools
+    end
+
+    A1_RAG --> KB_Store[("📚 Knowledge Base / Policy Documents")]
+    A1_API --> DB_Store[("🗄️ Relational Database (Orders, Customers, Returns)")]
+    A2_Tools -.-> KB_Store
+    A2_Tools -.-> DB_Store
 ```
+
+### Architectural Breakdown
+
+| Component | Role & Scope | Tools & Execution Layer |
+| :--- | :--- | :--- |
+| **Orchestration Agent** | **Master Supervisor**: Receives incoming user intent, maintains conversational state, and delegates tasks to sub-agents as tools. | LangGraph supervisor agent executing sub-agents (`sales_agent_tool`, `support_agent_tool`) via tool calling. |
+| **Agent - 1: Support Agent** | **Customer Support Specialist**: Resolves order tracking, returns, refunds, customer profile inquiries, and store policy questions. | **1. RAG (LlamaIndex-based)**: Ingests unstructured policy markdown & FAQs.<br/>**2. API Tools (Tool functions)**: Queries customer orders, shipments, returns from SQLite database with customer boundary constraints. *(Future Roadmap: FastMCP server)*. |
+| **Agent - 2: Sales Agent** | **Sales & Catalog Specialist**: Handles product discovery, inventory availability across regional warehouses, and sales analytics. | **Unified Tool Foundation**: Reuses the same RAG & API Tool patterns used in the support agent for catalog discovery and allowlisted read-only SQL execution. |
 
 ---
 
 ## ✨ Key Features
 
-### 1. 🧠 Multi-Agent Orchestration (LangGraph)
-- **Autonomous Intent Routing**: Classifies customer queries into Support, Sales, or General Chit-Chat.
+### 1. 🧠 Orchestration Agent (LangGraph Supervisor)
+- **Sub-Agent Invocation as Tools**: Operates as a master supervisor that binds sub-agents (`support_agent_tool`, `sales_agent_tool`) as dynamic tools.
+- **Autonomous Intent Routing**: Routes queries to the appropriate specialist agent based on query intent, while handling greetings directly without tool invocations.
 - **State Checkpointing**: In-memory session checkpointing tracks multi-turn dialogues across unique thread IDs.
-- **Graceful Fallbacks**: Direct conversational responses without tool overhead for greetings and general inquiries.
 
-### 2. 🛡️ Authenticated Customer Support Specialist
-- **Customer Boundary Isolation**: Strict JWT authentication ensures shoppers can only access their own order, return, and payment records.
-- **Transactional Fact Retrieval**: Live tracking of orders, dispatch dates, courier airway bill numbers, and return windows.
-- **Automated Invoice Generation**: Generates structured invoices for verified purchases.
-- **Grounding in Store Policy**: LlamaIndex RAG citations for return, refund, and shipping SLAs with zero policy hallucinations.
+### 2. 🛡️ Agent - 1: Support Agent
+- **Core Scope**: Handles order status, return details, refund details, shipping policies, and store FAQs.
+- **RAG (LlamaIndex-based)**: Dedicated to answering questions from unstructured data such as store shipping policies, return SLAs, and FAQs with zero policy hallucinations.
+- **API Tools (Tool Functions)**: Executes targeted queries for specific user order, return, and refund records with customer boundary isolation.
+- **Future Direction**: FastMCP tool integration roadmap for distributed tool discovery and invocation.
 
-### 3. 📈 Sales & Catalog Discovery Specialist
-- **Cross-Category Recommendations**: Explores products across electronics, apparel, home goods, and fitness gear with INR pricing.
-- **Multi-Warehouse Inventory**: Live stock availability across regional fulfillment centers (Mumbai, Bangalore, Delhi NCR).
-- **Safe Read-Only SQL Reporting**: Allows analytical sales queries with strict regex guardrails rejecting DDL/DML (`DROP`, `INSERT`, `UPDATE`, `DELETE`, `ALTER`).
+### 3. 📈 Agent - 2: Sales Agent
+- **Core Scope**: Handles product discovery, available sales products, sales product details, and all commercial sales info.
+- **Shared Tools Architecture**: Reuses the same proven tool architecture as the Support Agent:
+  - **RAG**: Explores unstructured product catalogs and specifications.
+  - **API Tools**: Safely queries inventory availability across regional warehouses and executes allowlisted read-only analytical SQL queries.
 
 ### 4. 🔍 Hybrid Vector Search (Qdrant + BM25)
 - **Dual Retrieval Pipeline**: Combines dense semantic embeddings (`GoogleGenAIEmbedding` or local `BAAI/bge-small-en-v1.5`) with sparse lexical BM25 (`fastembed_sparse_model="Qdrant/bm25"`).
